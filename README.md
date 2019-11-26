@@ -7,3 +7,5 @@ using Tailwind with React a lesser experience than straight
 CSS-in-JS. One way to improve the output of the purged css is to
 provide it rendered markup. Of course, this isn’t perfect since
 React apps are complex, but it is a step in the right direction.
+
+This was scaffolded using [my own project boilerplate](https://github.com/knowler/project), so note that many of the dependencies and configuration are not needed for the example.
